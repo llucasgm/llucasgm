@@ -1,5 +1,5 @@
 
-# 🌟 _**Olá, eu sou Lucas Gomes**_ 
+# 🌟 _**Olá, me chamo Lucas Gomes**_ 
 
 ### **Sobre mim**
 Atualmente tenho 21 anos, me interesso muito por tecnologia 
