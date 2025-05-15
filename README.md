@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**llucasgm/llucasgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌟 _**Olá, eu sou Lucas Gomes**_ 
 
-Here are some ideas to get you started:
+### **Sobre mim**
+Atualmente tenho 21 anos, me interesso muito por tecnologia 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formação Acadêmica
+**Cursando Técnico em Informática (Senac São Miguel Paulista)**
+
+> Capacitado em Assistente de Suporte e Manutenção de Computadores e Assistente de Operação de Redes de Computadores. Atualmente aprendendo FrontEnd
+
+## Hobbies
+* ### 🎮Jogos
+* ###  🎬Filmes e Séries
+* ###  📔Ler livros (Principalmente Manhwa e Manhuas)
+* ###  ✒️Desenhar
+* ###  🎶Ouvir diversas Músicas
